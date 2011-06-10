@@ -4,7 +4,7 @@ A collection of Android helper classes and functions in Java.
 
 ## Class List
 
-* __JsonHelper.java__ - A collection of JSON handling functions. Includes Retrieving JSON from a remote URL.
+* [JsonHelper.java](https://github.com/tonylukasavage/com.savagelook.android/blob/master/com/savagelook/android/JsonHelper.java) - A collection of JSON handling functions. Includes Retrieving JSON from a remote URL.
 * __KeyValuePair.java__ - A generic key/value pait class. Useful for populating Android Spinners.
 * __Lazy.java__ - A collection of static classes for operations I don't have a better home for.  
 * __ToastSingleton.java__ - I hate how Toasts in Android are shown sequentially. To prevent this I operate on a single instance of a Toast throughout my apps.
