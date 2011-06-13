@@ -10,7 +10,7 @@ public class ToastSingleton {
 	
 	public synchronized static Toast getInstance(Context context) {
 		if (instance == null) {
-			instance = new Toast(context);	
+			instance = Toast.makeText(context, "", Toast.LENGTH_SHORT);	
 		}
 		return instance;
 	}
