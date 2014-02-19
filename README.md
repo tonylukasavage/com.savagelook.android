@@ -1,3 +1,5 @@
+> **NOTE: This is very dated and unmaintained code. It's still here purely for reference.**
+
 # com.savagelook.android
 
 A collection of Android helper classes and functions in Java.  
